@@ -20,6 +20,7 @@ This project analyzes **Spotify streaming history** using **Python and Pandas**.
 │   │   ├── temporal.py      # Temporal listening trends
 │-- main.py                  # Main script with interactive menu
 │-- README.md                # Documentation (You're reading this!)
+|-- LICENSE # License
 ```
 
 ## 🛠️ Features
