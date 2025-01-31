@@ -4,6 +4,12 @@
 
 This project analyzes **Spotify streaming history** using **Python and Pandas**. It includes functions for **data cleaning, exploration, and visualization**, helping users understand their music listening patterns.
 
+## About the Data
+
+- **Source**: [Maven Analytics](https://app.mavenanalytics.io/datasets)
+
+- **Description**: Spotify user's complete music streaming history data, including timestamps, track, artist, and album names, and reasons for playing and ending each track.
+
 ## 📂 Folder Structure
 
 ```
